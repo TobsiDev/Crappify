@@ -1,0 +1,2 @@
+# Crappify
+Makes audio bad. 
